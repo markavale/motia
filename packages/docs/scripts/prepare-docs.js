@@ -161,4 +161,4 @@ Now follow these instructions:
   }
 }
 
-prepareDocs()
+prepareDocs();

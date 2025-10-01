@@ -40,4 +40,4 @@ module.exports = [
       '@typescript-eslint/no-unused-vars': ['error', { caughtErrors: 'none' }],
     },
   },
-]
+];
